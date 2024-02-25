@@ -1,4 +1,4 @@
-# DragonCore
+# DekkCore leak 10.1.7
 A World of Warcraft Dragonflight emulator.
 
 --------------
