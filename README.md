@@ -1,4 +1,4 @@
-#IMPORTANT
+# IMPORTANT
 This was my first thinking about a Dragonflight emulator. The first strategy was to port 10.1.7 DekkCore leak to future 10.2.7
 In conclusion it's better to port DekkCore stuff to the later last 10.2.7 TrinityCore Source. That's why this is an archive and has the DragonCore name in it's source.
 But DragonCore will be last 10.2.7 TrinityCore with ported stuff from this DekkCore leak(and maybe some other sources) and last Dragonflight RetailCore DB as database.
